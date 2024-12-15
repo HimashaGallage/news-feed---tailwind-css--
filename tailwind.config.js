@@ -12,6 +12,7 @@ module.exports = {
       colors: {
         primary: '#0E0D13',
         secondary: '#FFFFFF',
+        hover: '#2A283E'
       },
       fontFamily: {
         rubik: ['Rubik', 'sans-serif'],

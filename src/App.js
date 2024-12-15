@@ -1,5 +1,5 @@
 import './App.css';
-import NewsFeed from './screens/NewsFeed';
+import NewsFeed from './screens/NewsFeed/NewsFeed';
 import Header from './components/Header';
 
 function App() {
