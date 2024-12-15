@@ -1,4 +1,4 @@
-# React web assingment for Blott Studio
+# React webpage for news feed
 
 ## Author
 Himasha Gallage
